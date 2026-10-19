@@ -1,0 +1,8 @@
+# copy to bench.conf and edit; command-line options override these
+file=/PATH/ON/LOCAL/SSD/testfile.bin
+trace=steady.csv
+policy=wait
+depth=32
+direct=1
+verify=1
+out=run1.csv
