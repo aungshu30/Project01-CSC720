@@ -1,0 +1,1 @@
+completed_batches=4502, time_sec=11.143, work_rate=404.02 batches/sec
